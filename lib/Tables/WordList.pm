@@ -45,6 +45,19 @@ From command-line (using L<tables> CLI):
  % tables show WordList=wordlist,ID::BIP39
 
 
+=head1 METHODS
+
+=head2 new
+
+Arguments:
+
+=over
+
+=item * wordlist
+
+=back
+
+
 =head1 SEE ALSO
 
 L<WordList>
